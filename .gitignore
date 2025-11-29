@@ -36,11 +36,11 @@ models/
 *.keras
 *.pkl
 
-# Resultados gerados (gráficos, métricas, confusão)
-results/
-*.png
-*.jpg
-*.jpeg
+# Resultados gerados durante testes
+# Mantém estrutura results/ e artefatos finais para RESULT.md
+# Ignora apenas arquivos temporários de debug
+results/preprocessing/demo_*.png
+results/histograms/*.npy
 
 # Dataset (deve ser baixado separadamente)
 dataset/
