@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modelos treinados (gerados durante execução)
+models/
+*.h5
+*.keras
+*.pkl
+
+# Resultados gerados (gráficos, métricas, confusão)
+results/
+*.png
+*.jpg
+*.jpeg
+
+# Dataset (deve ser baixado separadamente)
+dataset/
+
+# Logs e temporários
+*.log
+*.tmp
+*.cache
+
+# CUDA/cuDNN installers (se baixados)
+*.run
+
+# Arquivos de output gerados
+*.npy
