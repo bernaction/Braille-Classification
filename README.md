@@ -7,8 +7,7 @@
 **Disciplina:** Processamento de Imagens — UNIVALI  
 **Professor:** Felipe Viel  
 **Alunos:** *Bernardo Vannier* e *André Goedert*  
-**Entrega:** 02/12/2025  
-**Status:** ✅ Completo  
+
 
 ---
 
