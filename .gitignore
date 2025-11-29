@@ -49,6 +49,7 @@ dataset/
 *.log
 *.tmp
 *.cache
+*.html
 
 # CUDA/cuDNN installers (se baixados)
 *.run
